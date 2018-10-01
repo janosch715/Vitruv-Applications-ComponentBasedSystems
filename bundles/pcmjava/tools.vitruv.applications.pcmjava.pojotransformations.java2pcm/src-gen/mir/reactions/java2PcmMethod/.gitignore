@@ -1,0 +1,11 @@
+/ClassMethodCreatedReaction.java
+/FieldCreatedReaction.java
+/FieldTypeChangeReaction.java
+/InterfaceMethodCreatedReaction.java
+/Java2PcmMethodChangePropagationSpecification.java
+/JavaNamedElementRenamedReaction.java
+/JavaReturnTypeChangedReaction.java
+/ParameterCreatedReaction.java
+/ParameterDeletedReaction.java
+/ParameterNameChangedReaction.java
+/ReactionsExecutor.java

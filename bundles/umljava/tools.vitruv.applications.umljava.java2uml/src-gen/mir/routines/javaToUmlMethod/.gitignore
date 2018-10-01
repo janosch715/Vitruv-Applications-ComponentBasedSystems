@@ -1,0 +1,17 @@
+/AddUmlOperationToClassRoutine.java
+/AddUmlOperationToEnumRoutine.java
+/ChangeUmlNamedElementVisibilityRoutine.java
+/ChangeUmlParameterTypeRoutine.java
+/ChangeUmlReturnTypeRoutine.java
+/CreateUmlClassMethodRoutine.java
+/CreateUmlConstructorRoutine.java
+/CreateUmlInterfaceMethodRoutine.java
+/CreateUmlParameterRoutine.java
+/DeleteJavaParameterRoutine.java
+/DeleteUmlMethodRoutine.java
+/RenameUmlNamedElementRoutine.java
+/RoutinesFacade.java
+/RoutinesFacadesProvider.java
+/SetUmlFeatureStaticRoutine.java
+/SetUmlMethodAbstractRoutine.java
+/SetUmlMethodFinalRoutine.java

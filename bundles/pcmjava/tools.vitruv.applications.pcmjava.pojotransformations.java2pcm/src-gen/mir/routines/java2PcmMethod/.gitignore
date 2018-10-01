@@ -1,0 +1,17 @@
+/ChangeInnerDeclarationTypeRoutine.java
+/ChangeParameterNameRoutine.java
+/ChangeReturnTypeRoutine.java
+/CreateAssemblyContextRoutine.java
+/CreateInnerDeclarationRoutine.java
+/CreateOperationRequiredRoleCorrespondingToFieldRoutine.java
+/CreatePCMSignatureRoutine.java
+/CreateParameterRoutine.java
+/CreateSEFFRoutine.java
+/CreateSeffFromImplementingInterfaceRoutine.java
+/CreateSeffFromImplementingInterfacesRoutine.java
+/DeleteParameterRoutine.java
+/FieldCreatedCorrespondingToOperationInterfaceRoutine.java
+/FieldCreatedCorrespondingToRepositoryComponentRoutine.java
+/RenameNamedElementRoutine.java
+/RoutinesFacade.java
+/RoutinesFacadesProvider.java

@@ -1,0 +1,15 @@
+/CreateAnnotationForFieldReaction.java
+/CreateClassAnnotationReaction.java
+/CreateClassMethodInEjbClassReaction.java
+/CreateFieldInDatatypeClassReaction.java
+/CreateFieldReaction.java
+/CreateImplementsReaction.java
+/CreateInterfaceAnnotationReaction.java
+/CreateInterfaceMethodReaction.java
+/CreateParameterInInterfaceMethodReaction.java
+/CreatedClassReaction.java
+/CreatedFirstPackageReaction.java
+/CreatedInterfaceReaction.java
+/Ejbjava2pcmChangePropagationSpecification.java
+/ReactionsExecutor.java
+/ReturnTypeCreatedReaction.java
