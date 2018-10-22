@@ -442,7 +442,7 @@ public abstract class Java2PcmTransformationTest extends VitruviusUnmonitoredApp
 		return (ConcreteClassifier) jaMoPPClassifier;
 	}
 
-	private <T extends JavaRoot> T getJaMoPPRootForVURI(final VURI vuri) {
+	protected <T extends JavaRoot> T getJaMoPPRootForVURI(final VURI vuri) {
 		final Resource resource = URIUtil.loadResourceAtURI(vuri.getEMFUri(), new ResourceSetImpl());
 		// unchecked is OK for the test.
 		@SuppressWarnings("unchecked")

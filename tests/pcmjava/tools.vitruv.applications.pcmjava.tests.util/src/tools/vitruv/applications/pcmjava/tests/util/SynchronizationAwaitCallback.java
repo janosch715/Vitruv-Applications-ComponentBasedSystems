@@ -1,5 +1,5 @@
-package tools.vitruv.applications.pcmjava.tests.util
+package tools.vitruv.applications.pcmjava.tests.util;
 
-interface SynchronizationAwaitCallback {
-	def void waitForSynchronization(int numberOfExpectedSynchronizationCalls);
+public interface SynchronizationAwaitCallback {
+	void waitForSynchronization(int numberOfExpectedSynchronizationCalls);
 }
